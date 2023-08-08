@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -empty -o
+find . -type f -type d  -empty -o
